@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="8.491" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2026-05-10T16:18:33" tests="0" file="cypress/e2e/banco-de-dados.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Banco de Dados" timestamp="2026-05-10T16:18:33" tests="4" time="8.489" failures="0">
+    <testcase name="Banco de Dados Adicionar um Item no Menu de Banco de Dados e Pesquisar o Item" time="2.323" classname="Adicionar um Item no Menu de Banco de Dados e Pesquisar o Item">
+    </testcase>
+    <testcase name="Banco de Dados Arquivar um Item no Menu de Banco de Dados" time="1.640" classname="Arquivar um Item no Menu de Banco de Dados">
+    </testcase>
+    <testcase name="Banco de Dados Acessar Itens Arquivados no Menu de Banco de Dados" time="1.612" classname="Acessar Itens Arquivados no Menu de Banco de Dados">
+    </testcase>
+    <testcase name="Banco de Dados Excluir um Item no Menu de Banco de Dados" time="1.562" classname="Excluir um Item no Menu de Banco de Dados">
+    </testcase>
+  </testsuite>
+</testsuites>
